@@ -1,0 +1,10 @@
+[
+    {
+        "title": "\"Learn Python\"",
+        "completed": false
+    },
+    {
+        "title": "\"Build Project\"",
+        "completed": true
+    }
+]
